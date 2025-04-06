@@ -14,6 +14,9 @@ Financial institutions face a major challenge in identifying applicants who are 
 
 ## 📊 Dataset Description
 
+You can access the dataset from the following Kaggle link:
+[Loan Prediction Dataset on Kaggle](https://www.kaggle.com/code/smeyra/loan-prediction/input)
+
 The dataset used is `LoansTrainingSet.csv` and includes the following features:
 
 - **Loan ID**: Unique identifier for each loan  
